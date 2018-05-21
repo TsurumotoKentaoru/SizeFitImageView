@@ -1,0 +1,2 @@
+# SizeFitImageView
+imageと同じサイズにするUIImageView
